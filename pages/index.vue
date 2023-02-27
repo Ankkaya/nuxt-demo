@@ -12,15 +12,10 @@
       alias impedit dolorem. Qui facere cupiditate nulla! Officiis neque dicta
       reiciendis ipsa adipisci repudiandae iure sunt facilis non rem!
     </p>
-    <p>
-      {{ currencyKey }}
-    </p>
   </div>
 </template>
 
-<script setup lang="ts">
-const { currencyKey } = useRuntimeConfig();
-</script>
+<script setup lang="ts"></script>
 
 <style scoped>
 h2 {
